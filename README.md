@@ -1,5 +1,5 @@
 ### Hi there | ሰላም <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">
-![Visitors](https://visitor-badge.laobi.icu/badge?page_id=liulalemx.liulalemx) ![Followers](https://img.shields.io/github/followers/liulalemx?style=social)
+![Visitors](https://visitor-badge.laobi.icu/badge?page_id=liulalemx.liulalemx) ![Followers](https://img.shields.io/github/followers/liulalemx?style=plastic)
 
 My name is Liul Alemayehu and I'm a software engineer from Ethiopia, living in Addis Ababa and currently learning at HiLCoE.
 <!--
