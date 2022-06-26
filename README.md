@@ -1,5 +1,5 @@
 ### Hi there | ሰላም 👋
-My name is Liul Alemayehu and I'm a software engineer from Ethiopia, living in Addis Ababa and currently learning at HiLCoE.
+I'm Liul Alemayehu, a software engineer from Ethiopia, living in Addis Ababa and currently learning at HiLCoE.
 <!--
 **liulalemx/liulalemx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
