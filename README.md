@@ -1,5 +1,5 @@
 ### Hi there | ሰላም 👋
-I'm Liul Alemayehu, a software engineer from Ethiopia, living in Addis Ababa.
+I'm Liul Alemayehu, a software engineer living in Addis Ababa, Ethiopia, .
 
 ## &#x1f4c8; GitHub Stats
 
